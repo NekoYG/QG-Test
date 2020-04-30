@@ -1,0 +1,11 @@
+﻿  GameApp.cpp
+C:\Users\Administrator\Desktop\PickandThrow投掷球\GameApp.cpp(327,111): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PickandThrow投掷球\GameApp.cpp(327,86): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PickandThrow投掷球\GameApp.cpp(327,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PickandThrow投掷球\GameApp.cpp(350,114): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PickandThrow投掷球\GameApp.cpp(350,89): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PickandThrow投掷球\GameApp.cpp(350,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PickandThrow投掷球\GameApp.cpp(373,114): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PickandThrow投掷球\GameApp.cpp(373,89): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PickandThrow投掷球\GameApp.cpp(373,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  22 Static Cube Mapping(2019 Win10).vcxproj -> C:\Users\Administrator\Desktop\PickandThrow投掷球\22 Static Cube Mapping(2019 Win10).exe
